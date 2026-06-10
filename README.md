@@ -15,12 +15,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/cauan-bernardino-diogo/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/devcauanbernardino" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<a href="https://www.linkedin.com/in/cauan-bernardino-diogo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://github.com/devcauanbernardino" target="_blank"><img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
